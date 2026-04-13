@@ -1,0 +1,5 @@
+# Created at 2026-02-23T14:09:55.971
+Boot Manifest-JAR contains absolute paths in classpath 'D:\PROJECTS TOGETHER\Deep Packet Analyzer\deep-packet-analyzer\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
